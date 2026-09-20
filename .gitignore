@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+*.pashatmp
 
 # Object files
 *.o
